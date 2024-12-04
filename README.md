@@ -1,17 +1,13 @@
 # paper-24
 
-Case 1: time author repo title body
+| Case | Column 2 |
+|----------|----------|
+| 1    | time author repo title body |
+| 2    | Data 3   | 
+| 3    | Data 5   |
+| 4    | Data 1   |
+| 5    | Data 3   | 
+| 6    | Data 5   |
+| 7    | Data 3   | 
+| 8    | Data 5   |
 
-Case 2:      author repo title body
-
-Case 3: time author      title body
-
-Case 4:      author      title body
-
-Case 5: time        repo title body
-
-Case 6: time             title body
-
-Case 7:             repo title body
-
-Case 8:                  title body
